@@ -4,7 +4,7 @@ You show up to work Tuesday morning, September 2, 2014. The head of the Product 
 to your desk and asks you what you think about the latest activity on the user engagement dashboards. 
 You fire them up, and something immediately jumps out.
 
-<chart omitted>*
+(chart omitted)*
 
 The chart shows a steady rise of engagement from May, 2014, until August 1, 2014, where there was a sharp decline, 
 followed by a plateau.
